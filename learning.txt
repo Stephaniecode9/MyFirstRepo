@@ -1,1 +1,2 @@
+What I have learned from this course
 i now know ls and cd
